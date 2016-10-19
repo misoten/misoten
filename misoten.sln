@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{C7D82207-2200-7F65-B30C-195059D0E353}") = "misoten", "Assembly-CSharp.csproj", "{EEB9E683-CA52-34FA-E68F-793B696CD31A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{EEB9E683-CA52-34FA-E68F-793B696CD31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB9E683-CA52-34FA-E68F-793B696CD31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB9E683-CA52-34FA-E68F-793B696CD31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB9E683-CA52-34FA-E68F-793B696CD31A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
